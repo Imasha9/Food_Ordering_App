@@ -49,21 +49,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVayhKkUCZivoZlrhx9D3U0LYz6gPE-qI',
-    appId: '1:979331879415:android:8bebbb539c541c1bccdef2',
-    messagingSenderId: '979331879415',
-    projectId: 'food-delivery-app-b0371',
-    storageBucket: 'food-delivery-app-b0371.appspot.com',
-  );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC7EoeINk4DcTGesxxOQDcJTGnFL7u-bkQ',
-    appId: '1:979331879415:ios:782a77b713803835ccdef2',
-    messagingSenderId: '979331879415',
-    projectId: 'food-delivery-app-b0371',
-    storageBucket: 'food-delivery-app-b0371.appspot.com',
-    iosBundleId: 'com.project.ticketApp',
-  );
 
 }
